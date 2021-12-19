@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1013257010132-4it9eklauiplhtb5hcr2vjage1qvocku.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://whospick-1140c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1013257010132</string>
+    <string name="google_api_key" translatable="false">AIzaSyDIU2kQrN9hQoQxBsQqfu1xCkVKM8-j0wg</string>
+    <string name="google_app_id" translatable="false">1:1013257010132:android:a2b234ece5bbc029db3441</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIU2kQrN9hQoQxBsQqfu1xCkVKM8-j0wg</string>
+    <string name="google_storage_bucket" translatable="false">whospick-1140c.appspot.com</string>
+    <string name="project_id" translatable="false">whospick-1140c</string>
+</resources>

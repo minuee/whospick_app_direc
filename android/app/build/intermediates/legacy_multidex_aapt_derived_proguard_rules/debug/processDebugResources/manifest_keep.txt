@@ -1,0 +1,4 @@
+# Referenced at /Users/sv/Documents/WorkPlace/project/whospick-app-director/android/app/build/intermediates/merged_manifests/debug/arm64-v8a/AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/sv/Documents/WorkPlace/project/whospick-app-director/android/app/build/intermediates/merged_manifests/debug/arm64-v8a/AndroidManifest.xml:20
+-keep class com.whospick.director.app.MainApplication { <init>(); }

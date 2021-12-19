@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">후즈픽 감독</string>
+    <string name="kakao_app_key">335b790529cc9cacb0aa48dfa341f3a5</string>
+    <string name="server_client_id">245027806384-9e0fjh628cdrlkoufs9te8o4b6p860gc.apps.googleusercontent.com</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">IvOFJQWwnMzQXnJK22q7ncxC5d82MITfAF9dF</string>
+</resources>

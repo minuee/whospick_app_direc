@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013257010132",
+    "firebase_url": "https://whospick-1140c.firebaseio.com",
+    "project_id": "whospick-1140c",
+    "storage_bucket": "whospick-1140c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013257010132:android:a2b234ece5bbc029db3441",
+        "android_client_info": {
+          "package_name": "com.whospick.director.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013257010132-4it9eklauiplhtb5hcr2vjage1qvocku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIU2kQrN9hQoQxBsQqfu1xCkVKM8-j0wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013257010132-4it9eklauiplhtb5hcr2vjage1qvocku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013257010132-89sqocs7os3p9u19m4k27ilbccs0b69c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whospick.actor.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
