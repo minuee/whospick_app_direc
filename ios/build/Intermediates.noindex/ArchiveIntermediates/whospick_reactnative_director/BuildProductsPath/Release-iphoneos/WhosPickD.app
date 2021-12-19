@@ -1,1 +1,0 @@
-/Users/sv/Documents/WorkPlace/project/whospick-app-director/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_director/InstallationBuildProductsLocation/Applications/WhosPickD.app
